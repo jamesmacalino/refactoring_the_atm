@@ -1,0 +1,31 @@
+#root{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+body {
+  margin: 0;
+  background-color: #c2748f;
+  color: #885454;
+  font-family: 'Arial';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+button {
+    background-color: #0c80f3;
+    border: 6px solid #0ff166;
+    border-radius: 10px;
+    width: 150px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  select {
+    display: block;
+    margin-bottom: 20px;
+    align-items: center;
+  }
+  input{
+    align-items:center;
+  }
+  
